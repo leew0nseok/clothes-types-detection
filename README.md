@@ -19,7 +19,7 @@ https://velog.io/@kimsoohyun/18%EC%9D%BC-%EC%B0%A8-YOLO-Mini-Project
 
 (https://github.com/tzutalin/labelImg)
 
-<img width="1629" alt="image" src="https://github.com/leew0nseok/clothes-detection-project/assets/101381258/8f766b2c-246d-494f-aa73-1223752d8c41">
+<img width="1626" alt="image" src="https://github.com/leew0nseok/clothes-types-detection/assets/101381258/55224abd-cba9-47b6-a696-0cb163b9b54f">
 
 
 다음과 같이 진행하였으며 라벨은 32개로 아래와 같습니다.
@@ -75,6 +75,6 @@ https://github.com/ultralytics/yolov5.git
 
 데이터 수집부터 라벨링, 모델 훈련 경험을 얻고싶어서 진행한 프로젝트라서 성능측정이나 이런 부분은 신경쓰지 않고 진행하였다. 
 
-<img width="442" alt="image" src="https://github.com/leew0nseok/clothes-detection-project/assets/101381258/bf43426e-ccea-40a5-b2de-e572f80af6f5">
+<img width="559" alt="image" src="https://github.com/leew0nseok/clothes-types-detection/assets/101381258/c3cd4a91-91eb-4d47-972d-1332515a9845">
 
 ## 결과화면
