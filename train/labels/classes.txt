@@ -1,0 +1,33 @@
+Beanie
+Buckethat
+Cap
+Hat
+Glasses
+Coat
+Bubble jacket
+Outer
+Jacket
+Shorts
+Skirt
+Croptop
+T-shirts
+Sweatshirt
+Shirt
+Vest
+Hoodie
+Top
+Jeans
+Training pants
+Pants
+Shoes
+Boots
+Sandal
+Muffler
+Tie
+Mask
+Headphone
+Accessories
+Handbag
+Backpack
+Bag
+Je
