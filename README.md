@@ -78,3 +78,8 @@ https://github.com/ultralytics/yolov5.git
 <img width="559" alt="image" src="https://github.com/leew0nseok/clothes-types-detection/assets/101381258/c3cd4a91-91eb-4d47-972d-1332515a9845">
 
 ## 결과화면
+<img width="1626" alt="image" src="https://github.com/leew0nseok/clothes-types-detection/assets/101381258/580f817a-5ebc-4d39-ba2b-4de8913bde98">
+
+
+https://github.com/leew0nseok/clothes-types-detection/assets/101381258/2373921e-ee5b-4fbc-8a8f-26e7a5462e10
+
